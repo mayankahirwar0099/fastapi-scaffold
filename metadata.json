@@ -1,0 +1,6 @@
+{
+  "name": "FastAPI Scaffolder",
+  "description": "Production-ready FastAPI backend template generator with customized schemas, ORM models, JWT auth, Docker, and Pytest suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
